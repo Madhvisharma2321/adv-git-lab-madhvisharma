@@ -1,0 +1,6 @@
+Git merge and rebase are both used to integrate changes from one branch into another, but they achieve this in fundamentally different ways, impacting the commit history.
+Use Cases of Merge :Integrating long-lived feature branches into a main or develop branch.When you want to maintain a clear record of when and how branches were combined When working on a shared branch where rewriting history would be disruptive to other collaborators.
+Use Cases of Rebase : Cleaning up your local feature branch before merging it into a shared branch to present a tidy history. Integrating upstream changes into your local feature branch without creating unnecessary merge commits When you want a perfectly linear project history.
+Merging is a safe option that preserves the entire history of your repository, while rebasing creates a linear history by moving your feature branch onto the tip of main .
+History of Rebase: Creates a linear history by rewriting commits. The original commits on the feature branch are replaced with new ones, resulting in a cleaner, more streamlined commit graph.
+History of Merge: Preserves the complete and accurate history of all branches, including the branching and merging points. The commit graph will show a non-linear history with branches converging.
