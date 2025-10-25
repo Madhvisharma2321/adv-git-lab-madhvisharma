@@ -1,0 +1,134 @@
+sh): returning to refs/heads/feature/auth
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+ving from feature/auth to hotfix/1.0.1
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{2}: rebase (finish): returning to refs/heads/feature/auth
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+ving from feature/auth to hotfix/1.0.1
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{2}: rebase (finish): returning to refs/heads/feature/auth
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+73ae553 HEAD@{6}: checkout: moving from main to feature/auth
+ffc428e (main) HEAD@{7}: commit: update README on main
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{2}: rebase (finish): returning to refs/heads/feature/auth
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+73ae553 HEAD@{6}: checkout: moving from main to feature/auth
+ffc428e (main) HEAD@{7}: commit: update README on main
+01547e3 HEAD@{8}: checkout: moving from feature/auth to main
+73ae553 HEAD@{9}: commit: Trweak auth.js
+9966330 HEAD@{10}: commit: add auth.js file
+:...skipping...
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{0}: reset: moving to HEAD
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+73ae553 HEAD@{6}: checkout: moving from main to feature/auth
+ffc428e (main) HEAD@{7}: commit: update README on main
+01547e3 HEAD@{8}: checkout: moving from feature/auth to main
+73ae553 HEAD@{9}: commit: Trweak auth.js
+9966330 HEAD@{10}: commit: add auth.js file
+01547e3 HEAD@{11}: checkout: moving from main to feature/auth
+01547e3 HEAD@{12}: commit: Add index.html file
+94851ce (origin/main, origin/HEAD) HEAD@{13}: clone: from https://github.com/Madhvisharma2321/adv-git-lab-madhvisharma.git
+(END)...skipping...
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{0}: reset: moving to HEAD
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{1}: checkout: moving from feature/auth to hotfix/1.0.1
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{2}: rebase (finish): returning to refs/heads/feature/auth
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+73ae553 HEAD@{6}: checkout: moving from main to feature/auth
+ffc428e (main) HEAD@{7}: commit: update README on main
+01547e3 HEAD@{8}: checkout: moving from feature/auth to main
+73ae553 HEAD@{9}: commit: Trweak auth.js
+9966330 HEAD@{10}: commit: add auth.js file
+01547e3 HEAD@{11}: checkout: moving from main to feature/auth
+01547e3 HEAD@{12}: commit: Add index.html file
+94851ce (origin/main, origin/HEAD) HEAD@{13}: clone: from https://github.com/Madhvisharma2321/adv-git-lab-madhvisharma.git
+~
+~
+~
+~
+(END)...skipping...
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{0}: reset: movin
+g to HEAD
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{1}: checkout: mo
+g to HEAD
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{1}: checkout: moving from feature/auth to hotfix/1.0.1
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{2}: rebase (finish): returning to refs/heads/feature/auth
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+73ae553 HEAD@{6}: checkout: moving from main to feature/auth
+ffc428e (main) HEAD@{7}: commit: update README on main
+01547e3 HEAD@{8}: checkout: moving from feature/auth to main
+73ae553 HEAD@{9}: commit: Trweak auth.js
+9966330 HEAD@{10}: commit: add auth.js file
+01547e3 HEAD@{11}: checkout: moving from main to feature/auth
+01547e3 HEAD@{12}: commit: Add index.html file
+94851ce (origin/main, origin/HEAD) HEAD@{13}: clone: from https://github.com/Madhvisharma2321/adv-git-lab-madhvisharma.git
+~
+~
+~
+~
+~
+~
+(END)
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth)
+
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{0}: reset: movin32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{0}: reset: moving to HEAD
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{1}: checkout: moving from feature/auth to hotfix/1.0.1
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{2}: rebase (finish): returning to refs/heads/feature/auth
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+73ae553 HEAD@{6}: checkout: moving from main to feature/auth
+ffc428e (main) HEAD@{7}: commit: update README on main
+01547e3 HEAD@{8}: checkout: moving from feature/auth to main
+73ae553 HEAD@{9}: commit: Trweak auth.js
+9966330 HEAD@{10}: commit: add auth.js file
+01547e3 HEAD@{11}: checkout: moving from main to feature/auth
+01547e3 HEAD@{12}: commit: Add index.html file
+94851ce (origin/main, origin/HEAD) HEAD@{13}: clone: from https://github.com/Madhvisharma2321/adv-git-lab-madhvisharma.git
+~
+~
+~
+~
+~
+(END)
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{0}: reset: moving to HEAD
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{1}: checkout: moving from feature/auth to hotfix/1.0.1
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+73ae553 HEAD@{6}: checkout: moving from main to feature/auth
+ffc428e (main) HEAD@{7}: commit: update README on main
+01547e3 HEAD@{8}: checkout: moving from feature/auth to main
+73ae553 HEAD@{9}: commit: Trweak auth.js
+9966330 HEAD@{10}: commit: add auth.js file
+01547e3 HEAD@{11}: checkout: moving from main to feature/auth
+01547e3 HEAD@{12}: commit: Add index.html file
+94851ce (origin/main, origin/HEAD) HEAD@{13}: clone: from https://github.com/Madhvisharma2321/adv-git-lab-madhvisharma.git
+~
+~
+~
+~
+(END)...skipping...
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{0}: reset: moving to HEAD
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{1}: checkout: moving from feature/auth to hotfix/1.0.1
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{2}: rebase (finish): returning to refs/heads/feature/auth
+32c0666 (HEAD -> hotfix/1.0.1, tag: v1.0.0, origin/feature/auth, feature/auth) HEAD@{3}: rebase (pick): Trweak auth.js
+9ed4f16 HEAD@{4}: rebase (pick): add auth.js file
+ffc428e (main) HEAD@{5}: rebase (start): checkout main
+73ae553 HEAD@{6}: checkout: moving from main to feature/auth
+ffc428e (main) HEAD@{7}: commit: update README on main
+01547e3 HEAD@{8}: checkout: moving from feature/auth to main
+73ae553 HEAD@{9}: commit: Trweak auth.js
+9966330 HEAD@{10}: commit: add auth.js file
+01547e3 HEAD@{11}: checkout: moving from main to feature/auth
+01547e3 HEAD@{12}: commit: Add index.html file
+94851ce (origin/main, origin/HEAD) HEAD@{13}: clone: from https://github.com/Madhvisharma2321/adv-git-lab-madhvisharma.git
